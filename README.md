@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lauren!
-- 💞️ I currently go to McDowell Tech Community College.
-- 🌱 I’m currently learning HTML, CSS, and Javascript!
+- Hi, I’m Lauren!
+- I currently go to McDowell Tech Community College.
+
 
   
 <!---
